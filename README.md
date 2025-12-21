@@ -26,3 +26,14 @@ Built for the **Xplore Intelligence Hackathon**, it demonstrates how explicit ru
    ```bash
    git clone https://github.com/Widrow-Senior/EnrollOrNot.git
    cd EnrollOrNot
+
+  ## Team
+
+  **Olga Vederinkova**  
+  Role: ML Engineer / Project Lead  
+  GitHub: [@Widrow-Senior](https://github.com/Widrow-Senior)
+
+  **Anastasia Kulik**
+  Role: ML Engineer
+  GitHub: https://github.com/akukulik
+  
