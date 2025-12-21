@@ -1,0 +1,51 @@
+study_id: "DAPA-HF"
+description: "DAPA-HF Trial Eligibility Criteria (NCT03036124)"
+rules:
+  - id: "R1"
+    type: "inclusion"
+    field: "age"
+    operator: ">="
+    value: 18
+    description: "Age ≥ 18 years"
+
+  - id: "R2"
+    type: "inclusion"
+    field: "lvef"
+    operator: "<="
+    value: 40
+    description: "LVEF ≤ 40%"
+
+  - id: "R3"
+    type: "inclusion"
+    field: "nt_probnp"
+    operator: ">="
+    value: 600
+    description: "NT-proBNP elevated (≥600 pg/mL)"
+
+  - id: "R4"
+    type: "inclusion"
+    field: "egfr"
+    operator: ">="
+    value: 30
+    description: "eGFR ≥ 30 mL/min"
+
+  - id: "R5"
+    type: "exclusion"
+    field: "sglt2_inhibitor"
+    operator: "=="
+    value: true
+    description: "Receiving SGLT2 inhibitor within 8 weeks"
+
+  - id: "R6"
+    type: "exclusion"
+    field: "type1_diabetes"
+    operator: "=="
+    value: true
+    description: "Type 1 diabetes mellitus"
+
+  - id: "R7"
+    type: "exclusion"
+    field: "bp_systolic"
+    operator: "<"
+    value: 95
+    description: "Systolic BP < 95 mmHg"

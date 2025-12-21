@@ -1,0 +1,23 @@
+study_id: "W01-Diabetes"
+description: "RWE Diabetes Cohort (Study W01)"
+rules:
+  - id: "R1"
+    type: "inclusion"
+    field: "egfr"
+    operator: ">="
+    value: 30
+    description: "eGFR ≥ 30 mL/min"
+
+  - id: "R2"
+    type: "inclusion"
+    field: "uacr"
+    operator: ">="
+    value: 30
+    description: "UACR ≥ 30 mg/g"
+
+  - id: "R3"
+    type: "exclusion"
+    field: "type1_diabetes"
+    operator: "=="
+    value: true
+    description: "Type 1 diabetes mellitus"

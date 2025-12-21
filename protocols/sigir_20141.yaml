@@ -1,0 +1,58 @@
+study_id: "SIGIR-20141"
+description: "SIGIR-20141 Eligibility Criteria (NCT01397994)"
+rules:
+  - id: "R1"
+    type: "inclusion"
+    field: "age"
+    operator: ">="
+    value: 25
+    description: "Age ≥ 25 years"
+
+  - id: "R2"
+    type: "inclusion"
+    field: "age"
+    operator: "<="
+    value: 65
+    description: "Age ≤ 65 years"
+
+  - id: "R3"
+    type: "exclusion"
+    field: "congestive_hf"
+    operator: "=="
+    value: true
+    description: "Congestive cardiac failure"
+
+  - id: "R4"
+    type: "exclusion"
+    field: "unstable_angina"
+    operator: "=="
+    value: true
+    description: "Unstable angina"
+
+  - id: "R5"
+    type: "exclusion"
+    field: "calcium_channel_blocker"
+    operator: "=="
+    value: true
+    description: "On calcium channel blockers"
+
+  - id: "R6"
+    type: "exclusion"
+    field: "type1_diabetes"
+    operator: "=="
+    value: true
+    description: "Type 1 diabetes (IDDM)"
+
+  - id: "R7"
+    type: "exclusion"
+    field: "sbp"
+    operator: "<"
+    value: 100
+    description: "Systolic BP < 100 mmHg"
+
+  - id: "R8"
+    type: "exclusion"
+    field: "sbp"
+    operator: ">="
+    value: 180
+    description: "Systolic BP ≥ 180 mmHg"
