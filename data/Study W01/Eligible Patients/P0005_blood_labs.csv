@@ -1,0 +1,33 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+P0005,2025-06-21,Blood,ALT,44.0,U/L,7–56,,CityLab Diagnostics,
+P0005,2025-06-21,Blood,AST,36.0,U/L,10–40,,Central Lab,Repeat if clinically indicated
+P0005,2025-06-21,Blood,BUN,13.0,mg/dL,7–20,,CityLab Diagnostics,Fasting confirmed
+P0005,2025-06-21,Blood,Creatinine,0.88,mg/dL,0.6–1.3,,CityLab Diagnostics,Hemolysis not detected
+P0005,2025-06-21,Blood,Glucose (fasting),125.0,mg/dL,70–99,H,CityLab Diagnostics,Hemolysis not detected
+P0005,2025-06-21,Blood,HDL-C,53.0,mg/dL,> 40,,Outpatient Lab,Fasting confirmed
+P0005,2025-06-21,Blood,HbA1c,7.6,%,4.0–5.6,H,CityLab Diagnostics,Fasting confirmed
+P0005,2025-06-21,Blood,Hemoglobin,16.4,g/dL,12.0–17.5,,Outpatient Lab,Repeat if clinically indicated
+P0005,2025-06-21,Blood,LDL-C,118.0,mg/dL,< 100,,Outpatient Lab,Hemolysis not detected
+P0005,2025-06-21,Blood,Platelets,256.0,10^3/µL,150–450,,Outpatient Lab,Fasting confirmed
+P0005,2025-06-21,Blood,Potassium,4.7,mmol/L,3.5–5.1,,CityLab Diagnostics,Repeat if clinically indicated
+P0005,2025-06-21,Blood,Sodium,138.6,mmol/L,135–145,,CityLab Diagnostics,Repeat if clinically indicated
+P0005,2025-06-21,Blood,Total Cholesterol,221.0,mg/dL,< 200,,CityLab Diagnostics,Fasting confirmed
+P0005,2025-06-21,Blood,Triglycerides,196.0,mg/dL,< 150,H,Central Lab,Fasting confirmed
+P0005,2025-06-21,Blood,WBC,7.0,10^3/µL,4.0–10.5,,Central Lab,Fasting confirmed
+P0005,2025-06-21,Blood,eGFR (CKD-EPI),82.0,mL/min/1.73 m²,≥ 60,,Outpatient Lab,Fasting confirmed
+P0005,2025-10-07,Blood,ALT,39.0,U/L,7–56,,Central Lab,Hemolysis not detected
+P0005,2025-10-07,Blood,AST,31.0,U/L,10–40,,CityLab Diagnostics,
+P0005,2025-10-07,Blood,BUN,16.0,mg/dL,7–20,,Outpatient Lab,Fasting confirmed
+P0005,2025-10-07,Blood,Creatinine,0.8,mg/dL,0.6–1.3,,CityLab Diagnostics,Repeat if clinically indicated
+P0005,2025-10-07,Blood,Glucose (fasting),123.0,mg/dL,70–99,H,CityLab Diagnostics,Hemolysis not detected
+P0005,2025-10-07,Blood,HDL-C,54.0,mg/dL,> 40,,Outpatient Lab,
+P0005,2025-10-07,Blood,HbA1c,7.5,%,4.0–5.6,H,Outpatient Lab,Repeat if clinically indicated
+P0005,2025-10-07,Blood,Hemoglobin,13.0,g/dL,12.0–17.5,,CityLab Diagnostics,Hemolysis not detected
+P0005,2025-10-07,Blood,LDL-C,118.0,mg/dL,< 100,,CityLab Diagnostics,Repeat if clinically indicated
+P0005,2025-10-07,Blood,Platelets,275.0,10^3/µL,150–450,,Central Lab,Fasting confirmed
+P0005,2025-10-07,Blood,Potassium,4.2,mmol/L,3.5–5.1,,CityLab Diagnostics,Repeat if clinically indicated
+P0005,2025-10-07,Blood,Sodium,141.5,mmol/L,135–145,,CityLab Diagnostics,Hemolysis not detected
+P0005,2025-10-07,Blood,Total Cholesterol,224.0,mg/dL,< 200,,Outpatient Lab,Fasting confirmed
+P0005,2025-10-07,Blood,Triglycerides,209.0,mg/dL,< 150,H,CityLab Diagnostics,
+P0005,2025-10-07,Blood,WBC,8.9,10^3/µL,4.0–10.5,,Central Lab,
+P0005,2025-10-07,Blood,eGFR (CKD-EPI),90.0,mL/min/1.73 m²,≥ 60,,Central Lab,Repeat if clinically indicated

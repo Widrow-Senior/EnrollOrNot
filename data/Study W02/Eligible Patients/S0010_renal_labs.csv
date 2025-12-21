@@ -1,0 +1,7 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+S0010,2025-05-14,Blood,BUN,21.0,mg/dL,7–20,,Central Lab,Hydration may affect BUN/Cr
+S0010,2025-05-14,Blood,Creatinine,0.97,mg/dL,0.6–1.3,,CityLab Diagnostics,Hydration may affect BUN/Cr
+S0010,2025-05-14,Blood,eGFR (CKD-EPI),69.0,mL/min/1.73 m²,≥ 60,,CityLab Diagnostics,Hydration may affect BUN/Cr
+S0010,2025-09-30,Blood,BUN,22.0,mg/dL,7–20,,Outpatient Lab,Stable vs prior
+S0010,2025-09-30,Blood,Creatinine,1.05,mg/dL,0.6–1.3,,CityLab Diagnostics,Hydration may affect BUN/Cr
+S0010,2025-09-30,Blood,eGFR (CKD-EPI),75.0,mL/min/1.73 m²,≥ 60,,CityLab Diagnostics,Stable vs prior

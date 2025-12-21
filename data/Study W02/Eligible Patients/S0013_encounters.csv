@@ -1,0 +1,5 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0013,2025-04-12,Follow-up visit,Outpatient,Cardiology,routine follow-up
+S0013,2025-06-18,Follow-up visit,Outpatient,Endocrinology,lab review
+S0013,2025-06-25,Office visit,Outpatient,Cardiology,routine follow-up
+S0013,2025-08-11,Telehealth,Outpatient,Endocrinology,treatment response review

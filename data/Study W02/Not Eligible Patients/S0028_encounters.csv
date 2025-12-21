@@ -1,0 +1,4 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0028,2025-07-15,Office visit,Outpatient,Cardiology,cholesterol management
+S0028,2025-08-29,Lab follow-up,Outpatient,Cardiology,lab results review
+S0028,2025-11-14,Telehealth,Outpatient,Primary Care,cholesterol follow-up

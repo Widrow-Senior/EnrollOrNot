@@ -1,0 +1,6 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0018,2025-03-28,Follow-up visit,Outpatient,Primary Care,medication refill
+S0018,2025-04-18,Telehealth,Outpatient,Endocrinology,routine follow-up
+S0018,2025-06-24,Office visit,Outpatient,Endocrinology,cholesterol management
+S0018,2025-08-29,Lab follow-up,Outpatient,Endocrinology,cholesterol follow-up
+S0018,2025-10-04,Telehealth,Outpatient,Primary Care,treatment response review

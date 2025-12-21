@@ -1,0 +1,4 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0012,2025-05-10,Office visit,Outpatient,Primary Care,cholesterol management
+S0012,2025-09-26,Lab follow-up,Outpatient,Primary Care,cholesterol follow-up
+S0012,2025-11-17,Office visit,Outpatient,Primary Care,treatment response review

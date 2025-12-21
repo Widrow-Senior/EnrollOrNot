@@ -1,0 +1,4 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0025,2024-12-24,Follow-up visit,Outpatient,Endocrinology,routine follow-up
+S0025,2025-04-21,Office visit,Outpatient,Endocrinology,lab review
+S0025,2025-07-15,Office visit,Outpatient,Cardiology,cholesterol follow-up

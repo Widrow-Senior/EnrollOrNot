@@ -1,0 +1,13 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+S0019,2025-11-01,Blood,ALT,32,U/L,7–56,,Outpatient Lab,Non-fasting sample
+S0019,2025-11-01,Blood,AST,26,U/L,10–40,,CityLab Diagnostics,Repeat if clinically indicated
+S0019,2025-11-01,Blood,HDL-C,49,mg/dL,> 40 mg/dL,,Central Lab,Non-fasting sample
+S0019,2025-11-01,Blood,LDL-C,109,mg/dL,< 100 mg/dL,,Outpatient Lab,
+S0019,2025-11-01,Blood,Total Cholesterol,195,mg/dL,< 200 mg/dL,,Central Lab,Repeat if clinically indicated
+S0019,2025-11-01,Blood,Triglycerides,170,mg/dL,< 150 mg/dL,,CityLab Diagnostics,Non-fasting sample
+S0019,2026-01-28,Blood,ALT,37,U/L,7–56,,Central Lab,
+S0019,2026-01-28,Blood,AST,22,U/L,10–40,,CityLab Diagnostics,Repeat if clinically indicated
+S0019,2026-01-28,Blood,HDL-C,46,mg/dL,> 40 mg/dL,,Central Lab,Repeat if clinically indicated
+S0019,2026-01-28,Blood,LDL-C,60,mg/dL,< 100 mg/dL,,Central Lab,Non-fasting sample
+S0019,2026-01-28,Blood,Total Cholesterol,143,mg/dL,< 200 mg/dL,,Outpatient Lab,Non-fasting sample
+S0019,2026-01-28,Blood,Triglycerides,176,mg/dL,< 150 mg/dL,,CityLab Diagnostics,Non-fasting sample

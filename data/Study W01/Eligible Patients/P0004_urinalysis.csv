@@ -1,0 +1,9 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+P0004,2025-10-04,Urine,Urine albumin/creatinine ratio,34,mg/g,< 30,H,Central Lab,First morning void
+P0004,2025-10-04,Urine,Urine protein,1+,mg/dL,Negative,,Outpatient Lab,Hydration status may affect results
+P0004,2025-10-04,Urine,Urine glucose,Negative,,Negative,,CityLab Diagnostics,First morning void
+P0004,2025-10-04,Urine,Urine ketones,Negative,,Negative,,Outpatient Lab,First morning void
+P0004,2025-10-04,Urine,Specific gravity,1.022,,1.005–1.030,,CityLab Diagnostics,First morning void
+P0004,2025-10-04,Urine,Urine pH,7.3,,5.0–8.0,,CityLab Diagnostics,Random urine sample
+P0004,2025-10-04,Urine,Leukocyte esterase,Negative,,Negative,,CityLab Diagnostics,Hydration status may affect results
+P0004,2025-10-04,Urine,Nitrite,Negative,,Negative,,CityLab Diagnostics,Random urine sample

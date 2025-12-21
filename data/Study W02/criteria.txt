@@ -1,0 +1,41 @@
+RWE Cohort Criteria (Example Study: New Statin Initiation and LDL-C Response)
+
+STUDY AIM
+Assess LDL-C reduction after new initiation of moderate/high-intensity statin therapy using routinely collected outpatient EHR data.
+
+DEFINITIONS
+- Index date: date of statin initiation (documented in the outpatient clinical note).
+- Baseline window: day -60 to day 0 relative to index date.
+- Follow-up window: day +56 to day +112 relative to index date.
+
+INCLUSION CRITERIA (CLINICAL)
+1) Age 35–80 years (inclusive) at index date.
+2) Diagnosis of hyperlipidemia (or mixed dyslipidemia) documented in the clinical note.
+3) Baseline LDL-C ≥ 130 mg/dL within the baseline window.
+4) New initiation of a moderate- or high-intensity statin at index date:
+   - No statin use documented in the 180 days prior to index date.
+
+INCLUSION CRITERIA (TECHNICAL DATA REQUIREMENTS)
+5) Complete demographics in the clinical note: patient_id, age, sex present (non-missing).
+6) Baseline lipid panel and safety labs within baseline window:
+   - LDL-C, HDL-C, triglycerides, ALT, AST, creatinine, and eGFR.
+7) Follow-up LDL-C measurement available within follow-up window (single value is sufficient).
+8) Encounter evidence:
+   - ≥1 outpatient encounter in the 180 days before index date, AND
+   - ≥1 outpatient encounter in the 120 days after index date.
+9) Standardized lab units and formatting:
+   - Lipids in mg/dL, ALT/AST in U/L, creatinine in mg/dL, eGFR in mL/min/1.73 m².
+   - Dates must be ISO-8601 (YYYY-MM-DD).
+   - Numeric fields must be parseable as numbers (no mixed text).
+
+EXCLUSION CRITERIA
+A) Pregnancy at index date.
+B) Severe hepatic impairment at baseline: ALT > 3× ULN (ULN=56 U/L) OR AST > 3× ULN (ULN=40 U/L).
+C) Advanced kidney disease: eGFR < 30 mL/min/1.73 m² at baseline, dialysis, or kidney transplant.
+D) Major cardiovascular event within 3 months before index (MI, stroke, coronary revascularization).
+E) Documented statin intolerance leading to discontinuation (within the note).
+F) Participation in an interventional clinical trial within the last 3 months.
+
+NOTES
+- This dataset contains synthetic data and for development/testing only.
+- Eligibility label is based on BOTH clinical criteria and technical data completeness/validity requirements.

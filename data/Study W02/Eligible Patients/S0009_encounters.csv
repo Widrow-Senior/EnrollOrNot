@@ -1,0 +1,4 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0009,2025-09-04,Office visit,Outpatient,Endocrinology,lab review
+S0009,2025-10-25,Lab follow-up,Outpatient,Endocrinology,lab results review
+S0009,2025-11-26,Office visit,Outpatient,Cardiology,treatment response review

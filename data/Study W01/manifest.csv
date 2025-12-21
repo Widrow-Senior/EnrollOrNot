@@ -1,0 +1,11 @@
+patient_id,eligible_label,index_date,anamnesis_file,blood_labs_file,urinalysis_file,ineligible_reasons
+P0001,ELIGIBLE,2025-11-09,P0001_anamnesis.csv,P0001_blood_labs.csv,P0001_urinalysis.csv,
+P0002,ELIGIBLE,2025-11-20,P0002_anamnesis.csv,P0002_blood_labs.csv,P0002_urinalysis.csv,
+P0003,ELIGIBLE,2025-11-10,P0003_anamnesis.csv,P0003_blood_labs.csv,P0003_urinalysis.csv,
+P0004,ELIGIBLE,2025-10-04,P0004_anamnesis.csv,P0004_blood_labs.csv,P0004_urinalysis.csv,
+P0005,ELIGIBLE,2025-10-07,P0005_anamnesis.csv,P0005_blood_labs.csv,P0005_urinalysis.csv,
+P0006,INELIGIBLE,2025-10-08,P0006_anamnesis.csv,P0006_blood_labs.csv,P0006_urinalysis.csv,HbA1c below inclusion range (6.4%)
+P0007,INELIGIBLE,2025-11-29,P0007_anamnesis.csv,P0007_blood_labs.csv,P0007_urinalysis.csv,Age outside inclusion range (79 years)
+P0008,INELIGIBLE,2025-10-30,P0008_anamnesis.csv,P0008_blood_labs.csv,P0008_urinalysis.csv,eGFR below inclusion threshold (32 mL/min/1.73 m²)
+P0009,INELIGIBLE,2025-12-07,P0009_anamnesis.csv,P0009_blood_labs.csv,P0009_urinalysis.csv,Type 1 diabetes (exclusion)
+P0010,INELIGIBLE,2025-11-29,P0010_anamnesis.csv,P0010_blood_labs.csv,P0010_urinalysis.csv,Pregnant at index date (exclusion)

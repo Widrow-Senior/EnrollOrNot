@@ -1,0 +1,5 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0024,2025-07-25,Telehealth,Outpatient,Primary Care,cholesterol management
+S0024,2025-07-30,Follow-up visit,Outpatient,Primary Care,cholesterol management
+S0024,2025-10-25,Follow-up visit,Outpatient,Endocrinology,lab review
+S0024,2025-12-24,Lab follow-up,Outpatient,Primary Care,treatment response review

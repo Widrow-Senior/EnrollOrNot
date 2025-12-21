@@ -1,0 +1,6 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0030,2025-02-28,Telehealth,Outpatient,Primary Care,routine follow-up
+S0030,2025-05-13,Office visit,Outpatient,Cardiology,routine follow-up
+S0030,2025-05-24,Follow-up visit,Outpatient,Primary Care,routine follow-up
+S0030,2025-09-14,Telehealth,Outpatient,Cardiology,treatment response review
+S0030,2025-10-11,Lab follow-up,Outpatient,Cardiology,lab results review

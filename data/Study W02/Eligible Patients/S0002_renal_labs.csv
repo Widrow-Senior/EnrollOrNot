@@ -1,0 +1,7 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+S0002,2025-09-15,Blood,BUN,18.0,mg/dL,7–20,,CityLab Diagnostics,Stable vs prior
+S0002,2025-09-15,Blood,Creatinine,0.94,mg/dL,0.6–1.3,,Outpatient Lab,Stable vs prior
+S0002,2025-09-15,Blood,eGFR (CKD-EPI),90.0,mL/min/1.73 m²,≥ 60,,Central Lab,Hydration may affect BUN/Cr
+S0002,2025-12-29,Blood,BUN,20.0,mg/dL,7–20,,Central Lab,Stable vs prior
+S0002,2025-12-29,Blood,Creatinine,1.02,mg/dL,0.6–1.3,,CityLab Diagnostics,Stable vs prior
+S0002,2025-12-29,Blood,eGFR (CKD-EPI),83.0,mL/min/1.73 m²,≥ 60,,Outpatient Lab,Hydration may affect BUN/Cr

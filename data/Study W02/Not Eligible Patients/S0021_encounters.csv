@@ -1,0 +1,2 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0021,2025-03-10,Telehealth,Outpatient,Cardiology,cholesterol management

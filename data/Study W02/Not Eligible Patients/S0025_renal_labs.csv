@@ -1,0 +1,7 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+S0025,2025-05-22,Blood,BUN,29.0,mg/dL,7–20,,CityLab Diagnostics,Stable vs prior
+S0025,2025-05-22,Blood,Creatinine,3.79,mg/dL,0.6–1.3,,Outpatient Lab,Stable vs prior
+S0025,2025-05-22,Blood,eGFR (CKD-EPI),26.0,mL/min/1.73 m²,≥ 60,,CityLab Diagnostics,
+S0025,2025-08-11,Blood,BUN,27.0,mg/dL,7–20,,Outpatient Lab,Stable vs prior
+S0025,2025-08-11,Blood,Creatinine,3.85,mg/dL,0.6–1.3,,Outpatient Lab,Stable vs prior
+S0025,2025-08-11,Blood,eGFR (CKD-EPI),17.0,mL/min/1.73 m²,≥ 60,,Outpatient Lab,Stable vs prior

@@ -1,0 +1,9 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+P0002,2025-11-20,Urine,Urine albumin/creatinine ratio,42,mg/g,< 30,H,Outpatient Lab,Random urine sample
+P0002,2025-11-20,Urine,Urine protein,1+,mg/dL,Negative,,Central Lab,
+P0002,2025-11-20,Urine,Urine glucose,Negative,,Negative,,CityLab Diagnostics,
+P0002,2025-11-20,Urine,Urine ketones,Negative,,Negative,,Outpatient Lab,
+P0002,2025-11-20,Urine,Specific gravity,1.023,,1.005–1.030,,Central Lab,
+P0002,2025-11-20,Urine,Urine pH,5.6,,5.0–8.0,,Outpatient Lab,Random urine sample
+P0002,2025-11-20,Urine,Leukocyte esterase,Negative,,Negative,,CityLab Diagnostics,First morning void
+P0002,2025-11-20,Urine,Nitrite,Negative,,Negative,,CityLab Diagnostics,Hydration status may affect results

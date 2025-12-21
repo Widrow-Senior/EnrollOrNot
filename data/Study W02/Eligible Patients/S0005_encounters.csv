@@ -1,0 +1,5 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0005,2025-02-27,Office visit,Outpatient,Endocrinology,routine follow-up
+S0005,2025-03-16,Telehealth,Outpatient,Primary Care,cholesterol management
+S0005,2025-04-05,Telehealth,Outpatient,Primary Care,medication refill
+S0005,2025-09-04,Office visit,Outpatient,Endocrinology,treatment response review

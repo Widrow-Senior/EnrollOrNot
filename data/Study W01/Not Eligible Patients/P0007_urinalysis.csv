@@ -1,0 +1,9 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+P0007,2025-11-29,Urine,Urine albumin/creatinine ratio,66,mg/g,< 30,H,Central Lab,Random urine sample
+P0007,2025-11-29,Urine,Urine protein,Trace,mg/dL,Negative,,Central Lab,Hydration status may affect results
+P0007,2025-11-29,Urine,Urine glucose,1+,,Negative,,Outpatient Lab,Hydration status may affect results
+P0007,2025-11-29,Urine,Urine ketones,Negative,,Negative,,CityLab Diagnostics,Hydration status may affect results
+P0007,2025-11-29,Urine,Specific gravity,1.012,,1.005–1.030,,Outpatient Lab,Hydration status may affect results
+P0007,2025-11-29,Urine,Urine pH,6.9,,5.0–8.0,,Outpatient Lab,Hydration status may affect results
+P0007,2025-11-29,Urine,Leukocyte esterase,Negative,,Negative,,Central Lab,
+P0007,2025-11-29,Urine,Nitrite,Negative,,Negative,,Outpatient Lab,

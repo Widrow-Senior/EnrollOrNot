@@ -1,0 +1,3 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0016,2025-03-16,Office visit,Outpatient,Endocrinology,routine follow-up
+S0016,2025-10-05,Telehealth,Outpatient,Primary Care,lab results review

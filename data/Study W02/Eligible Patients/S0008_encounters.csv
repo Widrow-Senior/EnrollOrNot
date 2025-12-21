@@ -1,0 +1,5 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0008,2025-03-17,Office visit,Outpatient,Cardiology,lab review
+S0008,2025-06-06,Telehealth,Outpatient,Endocrinology,medication refill
+S0008,2025-09-20,Telehealth,Outpatient,Cardiology,cholesterol follow-up
+S0008,2025-11-04,Telehealth,Outpatient,Endocrinology,cholesterol follow-up

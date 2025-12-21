@@ -1,0 +1,13 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+S0005,2025-05-07,Blood,ALT,41,U/L,7–56,,Outpatient Lab,Fasting confirmed
+S0005,2025-05-07,Blood,AST,14,U/L,10–40,,Central Lab,Fasting confirmed
+S0005,2025-05-07,Blood,HDL-C,63,mg/dL,> 40 mg/dL,,CityLab Diagnostics,
+S0005,2025-05-07,Blood,LDL-C,179,mg/dL,< 100 mg/dL,,CityLab Diagnostics,Repeat if clinically indicated
+S0005,2025-05-07,Blood,Total Cholesterol,272,mg/dL,< 200 mg/dL,,Central Lab,Fasting confirmed
+S0005,2025-05-07,Blood,Triglycerides,124,mg/dL,< 150 mg/dL,,CityLab Diagnostics,Fasting confirmed
+S0005,2025-08-25,Blood,ALT,40,U/L,7–56,,Outpatient Lab,Non-fasting sample
+S0005,2025-08-25,Blood,AST,19,U/L,10–40,,Central Lab,Repeat if clinically indicated
+S0005,2025-08-25,Blood,HDL-C,61,mg/dL,> 40 mg/dL,,Central Lab,Repeat if clinically indicated
+S0005,2025-08-25,Blood,LDL-C,79,mg/dL,< 100 mg/dL,,CityLab Diagnostics,Non-fasting sample
+S0005,2025-08-25,Blood,Total Cholesterol,160,mg/dL,< 200 mg/dL,,Outpatient Lab,Non-fasting sample
+S0005,2025-08-25,Blood,Triglycerides,117,mg/dL,< 150 mg/dL,,Outpatient Lab,Fasting confirmed

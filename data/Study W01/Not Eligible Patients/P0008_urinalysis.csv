@@ -1,0 +1,9 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+P0008,2025-10-30,Urine,Urine albumin/creatinine ratio,28,mg/g,< 30,,Central Lab,Hydration status may affect results
+P0008,2025-10-30,Urine,Urine protein,Negative,mg/dL,Negative,,Outpatient Lab,Hydration status may affect results
+P0008,2025-10-30,Urine,Urine glucose,Trace,,Negative,,Outpatient Lab,
+P0008,2025-10-30,Urine,Urine ketones,Negative,,Negative,,Central Lab,Hydration status may affect results
+P0008,2025-10-30,Urine,Specific gravity,1.015,,1.005–1.030,,Central Lab,First morning void
+P0008,2025-10-30,Urine,Urine pH,5.7,,5.0–8.0,,Central Lab,
+P0008,2025-10-30,Urine,Leukocyte esterase,Negative,,Negative,,Outpatient Lab,First morning void
+P0008,2025-10-30,Urine,Nitrite,Negative,,Negative,,Outpatient Lab,First morning void

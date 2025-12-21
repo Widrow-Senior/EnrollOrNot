@@ -1,0 +1,7 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+S0003,2025-09-29,Blood,BUN,16.0,mg/dL,7–20,,Central Lab,Stable vs prior
+S0003,2025-09-29,Blood,Creatinine,0.7,mg/dL,0.6–1.3,,Outpatient Lab,
+S0003,2025-09-29,Blood,eGFR (CKD-EPI),92.0,mL/min/1.73 m²,≥ 60,,Central Lab,Stable vs prior
+S0003,2026-01-04,Blood,BUN,16.0,mg/dL,7–20,,Outpatient Lab,Hydration may affect BUN/Cr
+S0003,2026-01-04,Blood,Creatinine,0.83,mg/dL,0.6–1.3,,Central Lab,Stable vs prior
+S0003,2026-01-04,Blood,eGFR (CKD-EPI),93.0,mL/min/1.73 m²,≥ 60,,Central Lab,Hydration may affect BUN/Cr

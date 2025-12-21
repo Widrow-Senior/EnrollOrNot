@@ -1,0 +1,3 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0015,2025-05-18,Telehealth,Outpatient,Primary Care,lab review
+S0015,2025-10-28,Telehealth,Outpatient,Primary Care,lab results review

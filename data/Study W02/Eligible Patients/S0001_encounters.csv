@@ -1,0 +1,5 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0001,2025-03-18,Office visit,Outpatient,Endocrinology,cholesterol management
+S0001,2025-04-28,Office visit,Outpatient,Primary Care,routine follow-up
+S0001,2025-07-02,Follow-up visit,Outpatient,Primary Care,medication refill
+S0001,2025-09-14,Lab follow-up,Outpatient,Cardiology,cholesterol follow-up

@@ -1,0 +1,4 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0007,2025-03-05,Telehealth,Outpatient,Cardiology,medication refill
+S0007,2025-08-27,Telehealth,Outpatient,Primary Care,lab results review
+S0007,2025-09-30,Telehealth,Outpatient,Primary Care,cholesterol follow-up

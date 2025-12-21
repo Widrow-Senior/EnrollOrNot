@@ -1,0 +1,6 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0022,2025-05-04,Follow-up visit,Outpatient,Cardiology,medication refill
+S0022,2025-06-14,Office visit,Outpatient,Primary Care,lab review
+S0022,2025-07-12,Office visit,Outpatient,Cardiology,medication refill
+S0022,2025-09-03,Telehealth,Outpatient,Endocrinology,treatment response review
+S0022,2025-12-06,Lab follow-up,Outpatient,Primary Care,treatment response review

@@ -1,0 +1,5 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0011,2025-02-24,Telehealth,Outpatient,Endocrinology,medication refill
+S0011,2025-05-14,Office visit,Outpatient,Endocrinology,lab review
+S0011,2025-06-18,Telehealth,Outpatient,Endocrinology,medication refill
+S0011,2025-09-13,Office visit,Outpatient,Primary Care,lab results review

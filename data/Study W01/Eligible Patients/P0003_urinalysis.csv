@@ -1,0 +1,9 @@
+patient_id,collection_date,specimen,test_name,value,unit,reference_range,flag,lab,comment
+P0003,2025-11-10,Urine,Urine albumin/creatinine ratio,55,mg/g,< 30,H,Central Lab,First morning void
+P0003,2025-11-10,Urine,Urine protein,Trace,mg/dL,Negative,,CityLab Diagnostics,Hydration status may affect results
+P0003,2025-11-10,Urine,Urine glucose,Trace,,Negative,,Outpatient Lab,
+P0003,2025-11-10,Urine,Urine ketones,Negative,,Negative,,Outpatient Lab,Random urine sample
+P0003,2025-11-10,Urine,Specific gravity,1.011,,1.005–1.030,,Central Lab,First morning void
+P0003,2025-11-10,Urine,Urine pH,7.2,,5.0–8.0,,CityLab Diagnostics,Random urine sample
+P0003,2025-11-10,Urine,Leukocyte esterase,Negative,,Negative,,Outpatient Lab,Hydration status may affect results
+P0003,2025-11-10,Urine,Nitrite,Negative,,Negative,,CityLab Diagnostics,Random urine sample

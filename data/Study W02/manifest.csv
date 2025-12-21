@@ -1,0 +1,31 @@
+patient_id,eligible_label,index_date,clinical_note_file,lipid_labs_file,renal_labs_file,encounters_file,ineligible_reasons
+S0001,ELIGIBLE,2025-08-22,S0001_clinical_note.csv,S0001_lipid_labs.csv,S0001_renal_labs.csv,S0001_encounters.csv,
+S0002,ELIGIBLE,2025-10-05,S0002_clinical_note.csv,S0002_lipid_labs.csv,S0002_renal_labs.csv,S0002_encounters.csv,
+S0003,ELIGIBLE,2025-10-14,S0003_clinical_note.csv,S0003_lipid_labs.csv,S0003_renal_labs.csv,S0003_encounters.csv,
+S0004,ELIGIBLE,2025-08-06,S0004_clinical_note.csv,S0004_lipid_labs.csv,S0004_renal_labs.csv,S0004_encounters.csv,
+S0005,ELIGIBLE,2025-06-05,S0005_clinical_note.csv,S0005_lipid_labs.csv,S0005_renal_labs.csv,S0005_encounters.csv,
+S0006,ELIGIBLE,2025-11-01,S0006_clinical_note.csv,S0006_lipid_labs.csv,S0006_renal_labs.csv,S0006_encounters.csv,
+S0007,ELIGIBLE,2025-07-23,S0007_clinical_note.csv,S0007_lipid_labs.csv,S0007_renal_labs.csv,S0007_encounters.csv,
+S0008,ELIGIBLE,2025-08-03,S0008_clinical_note.csv,S0008_lipid_labs.csv,S0008_renal_labs.csv,S0008_encounters.csv,
+S0009,ELIGIBLE,2025-10-14,S0009_clinical_note.csv,S0009_lipid_labs.csv,S0009_renal_labs.csv,S0009_encounters.csv,
+S0010,ELIGIBLE,2025-06-29,S0010_clinical_note.csv,S0010_lipid_labs.csv,S0010_renal_labs.csv,S0010_encounters.csv,
+S0011,ELIGIBLE,2025-08-03,S0011_clinical_note.csv,S0011_lipid_labs.csv,S0011_renal_labs.csv,S0011_encounters.csv,
+S0012,ELIGIBLE,2025-09-10,S0012_clinical_note.csv,S0012_lipid_labs.csv,S0012_renal_labs.csv,S0012_encounters.csv,
+S0013,ELIGIBLE,2025-07-16,S0013_clinical_note.csv,S0013_lipid_labs.csv,S0013_renal_labs.csv,S0013_encounters.csv,
+S0014,ELIGIBLE,2025-08-19,S0014_clinical_note.csv,S0014_lipid_labs.csv,S0014_renal_labs.csv,S0014_encounters.csv,
+S0015,ELIGIBLE,2025-07-15,S0015_clinical_note.csv,S0015_lipid_labs.csv,S0015_renal_labs.csv,S0015_encounters.csv,
+S0016,INELIGIBLE,2025-08-12,S0016_clinical_note.csv,S0016_lipid_labs.csv,S0016_renal_labs.csv,S0016_encounters.csv,Technical: missing sex field in clinical note
+S0017,INELIGIBLE,2025-11-06,S0017_clinical_note.csv,S0017_lipid_labs.csv,S0017_renal_labs.csv,S0017_encounters.csv,Technical: missing required baseline safety lab (ALT/AST)
+S0018,INELIGIBLE,2025-07-12,S0018_clinical_note.csv,S0018_lipid_labs.csv,S0018_renal_labs.csv,S0018_encounters.csv,Clinical/Technical: prior statin use in prior 180 days (not a new user)
+S0019,INELIGIBLE,2025-11-15,S0019_clinical_note.csv,S0019_lipid_labs.csv,S0019_renal_labs.csv,S0019_encounters.csv,Clinical: baseline LDL-C below threshold
+S0020,INELIGIBLE,2025-08-24,S0020_clinical_note.csv,S0020_lipid_labs.csv,S0020_renal_labs.csv,S0020_encounters.csv,Technical: follow-up LDL-C outside allowed window
+S0021,INELIGIBLE,2025-06-13,S0021_clinical_note.csv,S0021_lipid_labs.csv,S0021_renal_labs.csv,S0021_encounters.csv,Technical: missing required encounter evidence
+S0022,INELIGIBLE,2025-08-19,S0022_clinical_note.csv,S0022_lipid_labs.csv,S0022_renal_labs.csv,S0022_encounters.csv,Clinical: recent cardiovascular event within 3 months
+S0023,INELIGIBLE,2025-06-13,S0023_clinical_note.csv,S0023_lipid_labs.csv,S0023_renal_labs.csv,S0023_encounters.csv,Technical: missing follow-up LDL-C measurement
+S0024,INELIGIBLE,2025-11-09,S0024_clinical_note.csv,S0024_lipid_labs.csv,S0024_renal_labs.csv,S0024_encounters.csv,Clinical: pregnant at index date
+S0025,INELIGIBLE,2025-06-06,S0025_clinical_note.csv,S0025_lipid_labs.csv,S0025_renal_labs.csv,S0025_encounters.csv,Clinical: eGFR < 30 mL/min/1.73 m²
+S0026,INELIGIBLE,2025-06-11,S0026_clinical_note.csv,S0026_lipid_labs.csv,S0026_renal_labs.csv,S0026_encounters.csv,Technical: non-standard lipid unit (mmol/L)
+S0027,INELIGIBLE,2025-09-24,S0027_clinical_note.csv,S0027_lipid_labs.csv,S0027_renal_labs.csv,S0027_encounters.csv,Clinical: statin intolerance documented
+S0028,INELIGIBLE,2025-08-18,S0028_clinical_note.csv,S0028_lipid_labs.csv,S0028_renal_labs.csv,S0028_encounters.csv,Clinical: severe hepatic impairment (ALT/AST > 3×ULN)
+S0029,INELIGIBLE,2025-09-28,S0029_clinical_note.csv,S0029_lipid_labs.csv,S0029_renal_labs.csv,S0029_encounters.csv,Clinical: age outside range (>80)
+S0030,INELIGIBLE,2025-08-09,S0030_clinical_note.csv,S0030_lipid_labs.csv,S0030_renal_labs.csv,S0030_encounters.csv,Technical: baseline labs outside baseline window

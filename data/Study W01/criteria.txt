@@ -1,0 +1,25 @@
+Synthetic RWE Cohort Criteria (Example Study: Type 2 Diabetes — Metformin-based Routine Care)
+
+INCLUSION CRITERIA
+1) Age 40–75 years (inclusive) at index date.
+2) Documented diagnosis of Type 2 Diabetes Mellitus (T2DM) for ≥ 6 months.
+3) Most recent HbA1c within the last 90 days is between 7.0% and 10.5% (inclusive).
+4) Estimated glomerular filtration rate (eGFR, CKD-EPI) ≥ 45 mL/min/1.73 m² within the last 90 days.
+5) Body mass index (BMI) between 25.0 and 45.0 kg/m² (inclusive).
+6) On stable metformin therapy (≥ 1000 mg/day) OR documented metformin intolerance with lifestyle-only management,
+   stable for at least 8 weeks prior to index date.
+7) At least one routine outpatient visit in the last 12 months.
+
+EXCLUSION CRITERIA
+A) Type 1 diabetes, gestational diabetes, or secondary diabetes.
+B) Pregnant or breastfeeding at index date.
+C) Recent major cardiovascular event within 6 months (myocardial infarction, stroke, coronary revascularization).
+D) End-stage kidney disease, dialysis, kidney transplant, or eGFR < 45 mL/min/1.73 m².
+E) Active malignancy receiving systemic therapy within the last 12 months (except non-melanoma skin cancer).
+F) Severe hepatic impairment (ALT or AST > 3× upper limit of normal) within last 90 days.
+G) Chronic systemic glucocorticoid therapy equivalent to prednisone ≥ 10 mg/day for > 30 days.
+H) Participation in an interventional clinical trial within the last 3 months.
+
+NOTES
+- Index date is defined as the date of the most recent HbA1c measurement.
+- This dataset is synthetic and intended for model development/testing only.

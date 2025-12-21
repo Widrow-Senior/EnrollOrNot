@@ -1,0 +1,3 @@
+patient_id,encounter_date,encounter_type,setting,provider_specialty,chief_complaint
+S0020,2025-03-02,Follow-up visit,Outpatient,Cardiology,routine follow-up
+S0020,2025-09-08,Lab follow-up,Outpatient,Cardiology,lab results review
