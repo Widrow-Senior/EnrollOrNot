@@ -17,7 +17,6 @@ st.title("🧠 EnrollOrNot")
 st.caption("Explainable, Traceable Eligibility Screening for Clinical Trials & RWE")
 
 # === Данные Block 1 ===
-@st.cache_data
 def load_block1_data():
     """Загружает данные Block 1 с автоматическим определением кодировки"""
     try:
